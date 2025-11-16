@@ -25,9 +25,9 @@ Coloque os arquivos assim:
 
 📂 Projeto-Terremotos
 │
-├── main.py               # seu script com gráficos e cálculos de ondas
-├── terremotos.csv        # arquivo gerado anteriormente
-└── README.md             # este arquivo
+├── main.py               
+├── terremotos.csv       
+└── README.md 
 
 📥 3. Como rodar o projeto:
 
