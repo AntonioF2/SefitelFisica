@@ -25,6 +25,7 @@ Coloque os arquivos assim:
 
 📂 Projeto-Terremotos
 │
+
 ├── main.py               
 ├── terremotos.csv       
 └── README.md 
